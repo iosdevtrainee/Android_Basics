@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_Basics</string>
+    <string name="submit_btn">Click Me!</string>
+    <string name="nameLabel">Name:</string>
+    <string name="numberLabel">Number:</string>
+    <string name="reset_btn">Reset</string>
 </resources>
